@@ -1,5 +1,14 @@
 # TerminalSetup
 
+### Setup using bash
+
+```
+cd TermainalSetup
+bash setup.sh
+```
+
+## Recipe
+
 ### 1. Navigate into folder
 
 ```
