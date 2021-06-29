@@ -13,10 +13,14 @@ Download these four ttf files:
 - MesloLGS NF Italic.ttf
 - MesloLGS NF Bold Italic.ttf
 
-Double-click on each file and click "Install". This will make MesloLGS NF font available to all applications on your system. Configure your terminal to use this font:
+Double-click on each file and click "Install". This will make `MesloLGS NF` font available to all
+applications on your system. Configure your terminal to use this font:
 
-- Term2: Type p10k configure and answer Yes when asked whether to install Meslo Nerd Font. Alternatively, open iTerm2 → Preferences → Profiles → Text and set Font to MesloLGS NF.
-- Apple Terminal: Open Terminal → Preferences → Profiles → Text, click Change under Font and select MesloLGS NF family.
+- **iTerm2**: Type `p10k configure` and answer `Yes` when asked whether to install
+  _Meslo Nerd Font_. Alternatively, open _iTerm2 → Preferences → Profiles → Text_ and set _Font_ to
+  `MesloLGS NF`.
+- **Apple Terminal**: Open _Terminal → Preferences → Profiles → Text_, click _Change_ under _Font_
+  and select `MesloLGS NF` family.
 
 ## Main Setup
 
