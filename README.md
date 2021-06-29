@@ -29,6 +29,10 @@ cd TermainalSetup
 bash setup.sh
 ```
 
+### Re-configuration
+
+Type `p10k configure` if the configuration wizard doesn't start automatically or to start configuration again.
+
 ## Recipe
 
 ### 1. Navigate into folder
