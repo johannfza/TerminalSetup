@@ -1,6 +1,6 @@
 # TerminalSetup
 
-### Setup using bash
+## Setup
 
 ```
 cd TermainalSetup
