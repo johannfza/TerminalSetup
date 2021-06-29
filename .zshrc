@@ -7,6 +7,10 @@ source ~/plugins/powerlevel10k/powerlevel10k.zsh-theme
 
 ### ALIASES
 
+# MAIN DIRECTORIES 
+alias work=''
+alias dev=''
+
 # UTILITY
 alias src='source ~/.zshrc || source ~/.vimrc'
 alias vimconfig='vi~/.vimrc'
