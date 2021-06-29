@@ -1,11 +1,13 @@
 # -------------------------------------------------------------------
 # GENERAL SETTINGS
 # -------------------------------------------------------------------
+
 bindkey -v
 
 # -------------------------------------------------------------------
 # SOURCES
 # -------------------------------------------------------------------
+
 source ~/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 source ~/plugins/powerlevel10k/powerlevel10k.zsh-theme
 
@@ -19,7 +21,7 @@ alias dev=''
 
 # UTILITY
 alias src='source ~/.zshrc || source ~/.vimrc'
-alias vimconfig='vi~/.vimrc'
+alias vimconfig='vi ~/.vimrc'
 alias zshconfig='vi ~/.zshrc'
 
 # NAVIGATION
