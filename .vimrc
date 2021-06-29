@@ -18,12 +18,3 @@ set undodir=~/.vim/undodir
 
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
-
-call plug#begin('~/.vim/plugged')
-
-call plug#end()
-
-if executable('rg')
-    let g:rg_derive_root='true'
-endif
-
