@@ -20,7 +20,7 @@ alias work=''
 alias dev=''
 
 # UTILITY
-alias src='source ~/.zshrc || source ~/.vimrc'
+alias src='source ~/.zshrc'
 alias vimconfig='vi ~/.vimrc'
 alias zshconfig='vi ~/.zshrc'
 
