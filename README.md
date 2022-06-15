@@ -29,6 +29,8 @@ cd TerminalSetup
 bash setup.sh
 ```
 
+Thats all (:
+
 ### Re-configuration
 
 Type `p10k configure` if the configuration wizard doesn't start automatically or to start configuration again.
