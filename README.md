@@ -25,7 +25,7 @@ applications on your system. Configure your terminal to use this font:
 ## Main Setup
 
 ```
-cd TermainalSetup
+cd TerminalSetup
 bash setup.sh
 ```
 
@@ -38,7 +38,7 @@ Type `p10k configure` if the configuration wizard doesn't start automatically or
 ### 1. Navigate into folder
 
 ```
-cd TermainalSetup
+cd TerminalSetup
 ```
 
 ### 2. Unzip Dependencies
